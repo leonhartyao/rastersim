@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/images" >
+	<file alias="zoom_in.svg">res/zoom_in.svg</file>
+	<file alias="zoom_out.svg">res/zoom_out.svg</file>
+	<file alias="zoom_original.svg">res/zoom_original.svg</file>
+	<file alias="rotate_0.svg">res/noimage.svg</file>
+	<file alias="rotate_90.svg">res/rotate_90.svg</file>
+	<file alias="rotate_180.svg">res/rotate_180.svg</file>
+	<file alias="rotate_270.svg">res/rotate_270.svg</file>		
+	<file alias="mirror_horizontal.svg">res/mirror_horizontal.svg</file>
+	<file alias="mirror_vertical.svg">res/mirror_vertical.svg</file>		
+	<file alias="color_white.svg">res/color_white.svg</file>		
+	<file alias="color_black.svg">res/color_black.svg</file>		
+	<file alias="tool_pointer.svg">res/tool_pointer.svg</file>		
+	<file alias="tool_pen.svg">res/tool_pen.svg</file>		
+	<file alias="tool_line.svg">res/tool_line.svg</file>		
+	<file alias="tool_rect.svg">res/tool_rect.svg</file>		
+	<file alias="pen_cursor.bmp">res/pen_cursor.bmp</file>		
+	<file alias="pen_cursor_mask.bmp">res/pen_cursor_mask.bmp</file>		
+</qresource>
+</RCC>
